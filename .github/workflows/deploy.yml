@@ -1,0 +1,31 @@
+name: Deploy MkDocs site
+
+on:
+    push:
+        branches:
+            - main # или master, если у тебя он
+
+jobs:
+    deploy:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: 📥 Checkout repo
+              uses: actions/checkout@v4
+
+            - name: 🐍 Set up Python
+              uses: actions/setup-python@v5
+              with:
+                  python-version: "3.10"
+
+            - name: 📦 Install dependencies
+              run: |
+                  pip install mkdocs mkdocs-material
+
+            - name: 🔁 (Optional) Convert Obsidian [[links]]
+              run: |
+                  if [ -f convert_links.py ]; then python convert_links.py; fi
+
+            - name: 🚀 Deploy to GitHub Pages
+              run: |
+                  mkdocs gh-deploy --force

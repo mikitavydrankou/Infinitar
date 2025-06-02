@@ -1,0 +1,15 @@
+site_name: Czarna Magia Docs
+theme:
+    name: material
+    language: en
+    features:
+        - navigation.expand
+        - navigation.sections
+        - toc.integrate
+nav:
+    - Main Page: index.md
+    - Projects: Knowledge/Projects/Projects.md
+    - Tutorials: Knowledge/Tutorials/Tutorials.md
+repo_url: https://github.com/yourusername/ml-docs-url
+repo_name: yourusername/ml-docs-name
+edit_uri: edit/main/docs/
