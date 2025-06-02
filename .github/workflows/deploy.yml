@@ -22,10 +22,6 @@ jobs:
               run: |
                   pip install mkdocs mkdocs-material
 
-            - name: 🔁 (Optional) Convert Obsidian [[links]]
-              run: |
-                  if [ -f convert_links.py ]; then python convert_links.py; fi
-
             - name: 🚀 Deploy to GitHub Pages
               run: |
                   mkdocs gh-deploy --force

@@ -1,3 +1,3 @@
 MagMap: [[MagMap]]
 
-azaza
+MagMap: [MagMap](./MagMap.md)
