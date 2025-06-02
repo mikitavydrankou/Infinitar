@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "How to MLFlow (+setup)"
             }
+          },
+          {
+            "id": "136a439c79ef5515",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/Presentations/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -226,14 +240,20 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "48e0f96730abc6d8",
+  "active": "136a439c79ef5515",
   "lastOpenFiles": [
+    "Knowledge/Tutorials/How to MLFlow (+setup).md",
+    "Knowledge/Presentations/index.md",
+    "Knowledge/Presentations",
+    "Knowledge/Projects/Skryba.md",
+    "Knowledge/Random/index.md",
+    "Knowledge/Healthcare/index copy.md",
+    "Knowledge/Random",
     "Knowledge/Tutorials/index.md",
     "Knowledge/WorkAndCv/index.md",
     "Knowledge/Projects/MagMap.md",
     "Knowledge/Projects/index.md",
     "index.md",
-    "Knowledge/Tutorials/How to MLFlow (+setup).md",
     "Knowledge/Papers/index.md",
     "Knowledge/Healthcare/index.md",
     "Knowledge/Healthcare 1/Index.md",

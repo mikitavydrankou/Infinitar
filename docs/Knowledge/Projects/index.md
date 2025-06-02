@@ -1,2 +1,0 @@
-
-MagMap: [MagMap](./MagMap.md)

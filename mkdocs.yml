@@ -1,16 +1,26 @@
-site_name: Czarna Magia Docs
+site_name: Infinitar
+site_description: A collection of knowledge, projects, and tutorials.
 theme:
     name: material
     language: en
     features:
-        - navigation.expand
+        - navigation.instant
+        - navigation.instant.progress
+        - navigation.tabs
         - navigation.sections
+        - navigation.expand
+        - toc.follow
         - toc.integrate
     palette:
         scheme: slate
 nav:
     - Main Page: index.md
-    - Projects: Knowledge/Projects/index.md
     - Tutorials: Knowledge/Tutorials/index.md
+    - Healthcare: Knowledge/Healthcare/index.md
+    - Papers: Knowledge/Papers/index.md
+    - Work/CV: Knowledge/WorkAndCv/index.md
+    - Random: Knowledge/Random/index.md
+    - Presentations: Knowledge/Presentations/index.md
+
 repo_url: https://github.com/mikitavydrankou/Infinitar
 repo_name: Infinitar
