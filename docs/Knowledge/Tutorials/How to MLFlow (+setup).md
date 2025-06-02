@@ -1,10 +1,10 @@
 # How to setup MLFlow on DigitalOcean (STEP BY STEP)
 
-> [MLFlow quickstart](https://www.youtube.com/watch?v=cjeCAoW83_U)
+> [MLFlow quickstart (youtube)](https://www.youtube.com/watch?v=cjeCAoW83_U)
 > 
 > [MLFLow setup script (github)](https://github.com/mikitavydrankou/MLflow-server-ubuntu24)
 >
-> DigitalOcean gives 200$ for students, look more in [Github Student pack](https://www.notion.so/Github-Student-pack-1fe5e7108c4d80a7a940fb0adb746ba5?pvs=21)
+> DigitalOcean gives 200$ for students, look more in [Github Student pack](https://education.github.com/pack)
 
 1. ## DigitalOcean configuration
 

@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Knowledge/Tutorials/How to MLFlow (+setup).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "How to MLFlow (+setup)"
             }
           }
         ],
@@ -228,12 +228,12 @@
   },
   "active": "48e0f96730abc6d8",
   "lastOpenFiles": [
-    "Knowledge/WorkAndCv/index.md",
-    "index.md",
-    "Knowledge/Projects/index.md",
     "Knowledge/Tutorials/index.md",
-    "Knowledge/Tutorials/How to MLFlow (+setup).md",
+    "Knowledge/WorkAndCv/index.md",
     "Knowledge/Projects/MagMap.md",
+    "Knowledge/Projects/index.md",
+    "index.md",
+    "Knowledge/Tutorials/How to MLFlow (+setup).md",
     "Knowledge/Papers/index.md",
     "Knowledge/Healthcare/index.md",
     "Knowledge/Healthcare 1/Index.md",

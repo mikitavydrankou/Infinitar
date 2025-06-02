@@ -10,7 +10,7 @@ theme:
         scheme: slate
 nav:
     - Main Page: index.md
-    - Projects: Knowledge/Projects/Projects.md
-    - Tutorials: Knowledge/Tutorials/Tutorials.md
+    - Projects: Knowledge/Projects/index.md
+    - Tutorials: Knowledge/Tutorials/index.md
 repo_url: https://github.com/mikitavydrankou/Infinitar
 repo_name: Infinitar
