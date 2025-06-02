@@ -6,10 +6,11 @@ theme:
         - navigation.expand
         - navigation.sections
         - toc.integrate
+    palette:
+        scheme: slate
 nav:
     - Main Page: index.md
     - Projects: Knowledge/Projects/Projects.md
     - Tutorials: Knowledge/Tutorials/Tutorials.md
-repo_url: https://github.com/yourusername/ml-docs-url
-repo_name: yourusername/ml-docs-name
-edit_uri: edit/main/docs/
+repo_url: https://github.com/mikitavydrankou/Infinitar
+repo_name: czarnamagia

@@ -1,11 +1,15 @@
-Bazy wiedzy "Czarna magia"
+# KNSI "Czarna Magia"
 
--   Tutorials/Guides: [Tutorials](./Knowledge/Tutorials/Tutorials.md)
--   Projects: [Projects](./Knowledge/Projects/Projects.md)
+### Knowledge database and more...
 
-## How to make article
+- [Tutorials/Guides](Knowledge/Tutorials/index.md)
+- [Projects](Knowledge/Projects/index.md)
+- [Healthcare](Knowledge/Healthcare/index)
+- [Papers](Knowledge/Papers/index)
+- [Work/CV](Knowledge/WorkAndCv/index) 
 
--   you can use Obsidian
--   use [linkname](link) format, not [[obsidianlink]]
+How to add something:
+- use markdown ([docs](https://gist.github.com/ww9/44f08d44327a40d2ab309a349bebec57))
+- make it simple
+- ...
 
-IM TESTING GH ACTIONS
