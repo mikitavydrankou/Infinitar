@@ -5,6 +5,9 @@ on:
         branches:
             - main # или master, если у тебя он
 
+permissions:
+    contents: write
+
 jobs:
     deploy:
         runs-on: ubuntu-latest
@@ -23,5 +26,7 @@ jobs:
                   pip install mkdocs mkdocs-material
 
             - name: 🚀 Deploy to GitHub Pages
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
               run: |
                   mkdocs gh-deploy --force
